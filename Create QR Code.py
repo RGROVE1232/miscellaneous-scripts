@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 ###___author___: ryleighjgrove
 ###___twitter__: Ryleigh_Grove1
 ###___Code created using Jupyter Notebook, Sun Aug 14 2022
