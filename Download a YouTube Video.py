@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[20]:
-
-
 ###___author___: ryleighjgrove
 ###___twitter__: Ryleigh_Grove1
 ###___Code created using Jupyter Notebook, Sun Aug 14 2022
@@ -39,10 +33,5 @@ repeat()
 end = time()
 execution_time = end - start
 print('Execution Time: ', execution_time)
-
-
-# In[ ]:
-
-
 
 
