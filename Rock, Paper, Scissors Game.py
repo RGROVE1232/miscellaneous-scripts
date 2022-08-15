@@ -5,6 +5,8 @@
 #Import library
 import random
 
+start = time() #To view execution time, leave this open
+
 #Starting choices for user and computer
 start = input('Choose rock, paper, or scissors: ')
 possible_choices = ['rock', 'paper', 'scissors']
@@ -35,3 +37,7 @@ elif start == "scissors":
     else:
         print("Rock smashes scissors! You lose.")
 
+#To view execution time, leave the following open
+end = time()
+execution_time = end - start
+print('Execution Time: ', execution_time)
