@@ -2,8 +2,9 @@
 ###___twitter__: Ryleigh_Grove1
 ###___Code created using Jupyter Notebook, Mon Aug 15 2022
 
-#Import library
+#Import libraries
 import random
+from time import time
 
 start = time() #To view execution time, leave this open
 
