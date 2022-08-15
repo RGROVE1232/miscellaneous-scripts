@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 ###___author___: ryleighjgrove
 ###___twitter__: Ryleigh_Grove1
 ###___Code created using Jupyter Notebook, Mon Aug 15 2022
@@ -40,10 +34,4 @@ elif start == "scissors":
           
     else:
         print("Rock smashes scissors! You lose.")
-
-
-# In[ ]:
-
-
-
 
